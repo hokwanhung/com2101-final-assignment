@@ -1,6 +1,6 @@
 # com2101-final-assignment
 
-COM2101, Computer Network, is a course offered by The Hang Seng University of Hong Kong, and taught by Professor Dr. LIU Hai(劉海). 
+com2101, Computer Network, is a course offered by The Hang Seng University of Hong Kong, and taught by Professor Dr. LIU Hai. 
 
 According to the [university website](https://www.hsu.edu.hk/en/academic-programmes/undergraduate/ahcc/academic-structure/?shortname=COM2101&cid=2079), 
 
